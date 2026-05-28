@@ -1,5 +1,3 @@
 order,story_id,title,subtitle,byline,private,show_sections
 orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
-0,plantilla_en_blanco,reemplázame con tu título,,,,
-1,blank_template,Buddy Holly,Oil Platform Holly,"Pricilla ""Percy"" Almendarez",,
-2,holly-8ybr,Holly,,,,
+0,blank_template,Buddy Holly,Oil Platform Holly,"Pricilla ""Percy"" Almendarez",,
