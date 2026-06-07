@@ -1,2 +1,3 @@
-term_id,title,definition
-untitled-term,"Platform Holly","An oil platform off the coast of Goleta that was established in 1966 by ARCO and Mobil."
+term_id,title,definition,related_terms
+id_término,titulo,definición,términos_relacionados
+untitled-term,Platform Holly,An oil platform off the coast of Goleta that was established in 1966 by ARCO and Mobil.,
