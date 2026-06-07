@@ -1,0 +1,7 @@
+---
+title: "What research was performed at Holly!"
+---
+
+Dr. Milton Love spent a significant time in his career investigating how marine wildlife utilize man-made structures such as oil platforms like Holly and gas seepage tents as nurseries. Through his research, he found that these structures actually proved to be better nurseries than naturally occuring reefs. While smaller and/or juvenile fish preferred  shallower parts of oil platforms, bigger fish preferred to hang around gas seepage tents that typically sat deeper on the surface of the ocean floor. Some of his research and interviews can actually be found at the Santa Barbara Maritime Museum!
+
+Bruce Luyendik, on the other hand, performed much more geography based research. His research concerned natural gas seepage occuring in the Ellwood Oil field, the same oil field that Holly is located! This gas is usually concentrated through gas seepage tents and brought to the mainland by gas pipes and is then turned into the same gas we use for our kitchen stoves and other similar products. Through the decades of data derived from Holly's inception, it was found that Holly helped reduce natural gas seepages from natural rock fractures by helping alleviate underwater pressure. 
