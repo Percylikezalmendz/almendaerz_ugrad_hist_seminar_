@@ -1,0 +1,7 @@
+---
+title: "Why This Matters"
+---
+
+Santa Barbara has a very sensitive history with oil spills. In 1969, a blow-out occurred on Union Oil's Platform A, leaving to a devastating  3.4 million to 4.2 million gallons of crude oil spilled into the ocean. The immediate public response and outrage to this horrific environmental disaster led to Wisconsin Senator Gaylod Nelson, U.S. Represenative Pete McCloskey and Denis Hayes to organize and establish the first ever Earth Day on April 22nd, 1970. 
+
+That being said, the Refugio oil spill felt like a slap in the face to environmentalists and locals. In a report published in 2016, the U.S. Department of Transportation's Pipeline and Hazardous Materials Safety announced that it found the Plains All-American at fault for the 2015 Refugio pipeline rupture and oil spill. "PHMDA's investigation reveals that a number of preventable errors led to this incident, and that the company's failures in judgement, including inadequate assessment of the safety of this line and faulty planning made matters worse," said U.S. Transportation Secretary Anthony Fox. "Millions of dollars have been spent to repair the substantial damage caused to the environment from this spill. It is completely unacceptable, and we will hold the company accountable for its actions."

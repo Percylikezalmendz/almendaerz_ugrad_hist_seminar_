@@ -2,12 +2,12 @@
 # https://telar.org
 
 # Site Settings
-title: "Holly"
-description: "Oil Platform Holly!"
+title: "Platform Holly"
+description: "A page dedicated to my research project on oil Platform Holly off the coast of Santa Barbara and Goleta!"
 url: "https://percylikezalmendz.github.io"
 baseurl: "/almendaerz_ugrad_hist_seminar_"
-author: ""
-email: ""
+author: "Pricilla \"Percy\" Almendarez"
+email: "p.m.almendarez@ucsb.edu"
 telar_theme: "santa-barbara"
 logo: ""
 telar_language: en
