@@ -2,4 +2,4 @@
 title: "Learn more"
 ---
 
-She was decommissioned as of August 2024 with planned removal within the next 10 or so years by Exxon Mobil. This removal was initially announced in October of 2019 but was later delayed on March of 2020 due to the Coronavirus pandemic.
+There have been major criticisms of this constant change of ownership as as constant changes of ownership can be attributed to companies distancing themselves from potential liabilities and allowing for platform maintenance to be overlooked. This is considered to be a major contributing factor to the South Ellwood Pipeline eruption and the subsequent Refugio oil spill in 2015, in which a pipeline maintained by oil corp All-American exploded and led to 142,800 gallons of crude oil into the Gaviota coast. 
