@@ -1,6 +1,8 @@
 ---
 layout: index
 title: Home
+stories_heading: "Oil Platform Holly!"
+objects_heading: "Photos found across my research!"
 ---
 
 Welcome to my research page on Platform Holly!
